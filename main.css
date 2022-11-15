@@ -1,0 +1,62 @@
+
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css');
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: lightgrey;
+}
+
+h1 {
+	display: block;
+	padding-top: 30px;
+	padding-left: 10%;
+	padding-right: 10%;
+	font-family: arial;
+}
+
+h4 {
+	font-family: Georgia;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-style: italic;
+}
+
+.byline-dateline {
+	font-family: arial;
+	margin-left: 10%;
+}
+
+.article_body {
+	font-family: Georgia;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+img {
+	display: block;
+	width: 80%;
+	margin: auto;
+}
+
+figcaption {
+	margin-left: 20%;
+	margin-right: 20%;
+	font-family: arial;
+	font-size: 10pt;
+}
+
+.graph {
+	background-color: white;
+	padding: 20px;
+	display: block;
+	width: 80%;
+	margin: auto;
+	margin-bottom: 30px;
+}
+
